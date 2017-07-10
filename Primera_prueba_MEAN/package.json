@@ -1,0 +1,15 @@
+{
+  "name": "Primera_prueba_MEAN",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sencilla app con MEAN",
+  "author": "PASK",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "pug": "2.0.0-beta3",
+    "mongoose": "4.11.1"   
+  }
+}
